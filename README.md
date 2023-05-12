@@ -16,21 +16,30 @@ Data Extraction: The MOE Primary 1 Registration Phases Dashboard was created usi
 
 Data Cleaning & Transformation: In Excel, data cleanings such as removing unwanted rows and columns were performed to ensure that only relevant data was included. In Power BI, data cleaning/transforming involved adding new columns and new calculations, also called measures. These measures were used to derive new insights and create additional visualizations.
 
+![image](https://i.imgur.com/egaiUBx.jpg)
+
+![image](https://i.imgur.com/WeV7tXJ.jpg)
+
+![image](https://i.imgur.com/d0gzg4J.jpg)
+
+
 ### What have I learned from this analysis?
 
 Applicants were assured of a place if they apply in **Phase 1**. 
  - **highest application rate** is **74%**, Chong Zheng Primary.
- - 
 In **Phase 2A**, “popular” schools **start to get oversubscribed**. 
 - Merger of old Phase 2A(1) and 2A(2) into one Phase.
 - Reserved places for Phase 2B (20 seats) and 2C (40seats).
-
 **Phase 2B** saw the **largest number** (57 **schools**) with **0 application**.
-
 In **Phase 2C**, **4 Towns** (Bishan, Central, Marine Parade, Novena) were **fully subscribed**.
 - These towns have only 3 schools in it.
 Also, it is the **highest application count** of 15.1k **among all phases**.
-
 End of **Phase 2CS**, the **Total Take-Up Rate reaches 91%** (3.6k places remaining).
 
+One recommendation for future parents: "Every school, is a good school, does not mean every school is the same school. But it does mean, every school good in its own way, seeking to bring out the best in every child."
+
+### Further Improvement (ver. 2.0)
+- To include Y2021 datasets for analysis against Y2022 (meaning I have to manually key-in Y2021 datasets !!!!)
+
+Click *[here](https://www.linkedin.com/in/chee-keong-ng-5a5920117/)* for my Linkedin page 
 
