@@ -1,6 +1,6 @@
 # SCTP-Data-Analyst---My-3rd-Capstone-
 
-### An Analysis into MOE Primary 1 Registration Phase
+### An Analysis into MOE Y2022 Primary 1 Registration Phase
 
 The MOE Primary 1 Registration Phases Dashboard provides an overview of the registration phases for parents who are planning to register their child in a Singapore primary school. The data is based on a raw dataset from the "Kiasu Parents" website and is visualized using Microsoft Power BI software.
 
