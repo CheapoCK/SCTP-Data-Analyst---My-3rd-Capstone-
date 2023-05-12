@@ -27,13 +27,17 @@ Data Cleaning & Transformation: In Excel, data cleanings such as removing unwant
 
 Applicants were assured of a place if they apply in **Phase 1**. 
  - **highest application rate** is **74%**, Chong Zheng Primary.
+
 In **Phase 2A**, “popular” schools **start to get oversubscribed**. 
 - Merger of old Phase 2A(1) and 2A(2) into one Phase.
 - Reserved places for Phase 2B (20 seats) and 2C (40seats).
+
 **Phase 2B** saw the **largest number** (57 **schools**) with **0 application**.
+
 In **Phase 2C**, **4 Towns** (Bishan, Central, Marine Parade, Novena) were **fully subscribed**.
 - These towns have only 3 schools in it.
 Also, it is the **highest application count** of 15.1k **among all phases**.
+
 End of **Phase 2CS**, the **Total Take-Up Rate reaches 91%** (3.6k places remaining).
 
 One recommendation for future parents: "Every school, is a good school, does not mean every school is the same school. But it does mean, every school good in its own way, seeking to bring out the best in every child."
